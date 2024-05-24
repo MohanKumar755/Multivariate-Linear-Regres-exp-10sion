@@ -22,6 +22,7 @@ To write a python program to implement multivariate linear regression and predic
 
 ## Program:
 ```
+![image](https://github.com/MohanKumar755/Multivariate-Linear-Regres-exp-10sion/assets/146155007/391f68c0-dba0-4515-88ab-991b2e251148)
 
 
 
